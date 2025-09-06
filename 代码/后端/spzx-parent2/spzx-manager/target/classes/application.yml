@@ -1,5 +1,0 @@
-spring:
-  application:
-    name: server-manger
-  profiles:
-    active: dev
